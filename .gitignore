@@ -1,0 +1,9 @@
+# Environments
+env/
+__pycache__/
+
+# Gradio cache
+.gradio/
+
+# Local Model Folder (මෙය Hugging Face හි ඇති නිසා GitHub දැමීම අනවශ්‍යයි)
+My_Sinhala_Hate_Speech_Model/
