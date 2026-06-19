@@ -44,7 +44,7 @@ Open your web browser and go to the provided local URL (usually http://127.0.0.1
 
 The core AI model is hosted on Hugging Face. The application automatically downloads and caches the model upon the first run.
 
-- Model URL: [dimuthulk/sinhala-hate-speech-detector](dimuthulk/sinhala-hate-speech-detector)
+- Model URL: [dimuthulk/sinhala-hate-speech-detector]([dimuthulk/sinhala-hate-speech-detector](https://huggingface.co/dimuthulk/sinhala-hate-speech-detector))
 - Architecture: XLM-RoBERTa (Base)
 - Classes:
   - NOT (Not Offensive)
