@@ -5,7 +5,9 @@ This is a deep learning-based text classification application built to detect of
 ## 🚀 Live Demo (Local Installation)
 
 Follow these steps to run the Web App on your local machine.
+
 ![image_01](images/image_01.png)
+![image_02](images/image_02.png)
 
 ### 1. Clone the Repository
 
