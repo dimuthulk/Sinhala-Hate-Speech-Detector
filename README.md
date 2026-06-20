@@ -12,7 +12,7 @@ Follow these steps to run the Web App on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/dimuthulk/Sinhala-Hate-Speech-Detector.git](https://github.com/dimuthulk/Sinhala-Hate-Speech-Detector.git)
+git clone https://github.com/dimuthulk/Sinhala-Hate-Speech-Detector.git
 cd Sinhala-Hate-Speech-Detector
 ```
 
